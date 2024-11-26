@@ -5,6 +5,7 @@ Copy and paste
 
 Clone this repository
 
+git clone https://github.com/Zlocrax/Termux-styling
 
 Back up your current bashrc file with 
 
